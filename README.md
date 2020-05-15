@@ -11,7 +11,8 @@ Sākumā bija aptauja ar ķīmijas skolotāju lai noskaidrotu, kas tiks ievadīt
 ![log mod](https://github.com/N1kijs/KimSk/blob/master/bildes/logmod.png)
 
 ## Projekts
-
+### HTML
+![html1](https://github.com/N1kijs/KimSk/blob/master/bildes/html1.png)
 
 
 Autors: Nils Baldis
