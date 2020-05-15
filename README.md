@@ -22,10 +22,28 @@ Sākumā bija aptauja ar ķīmijas skolotāju lai noskaidrotu, kas tiks ievadīt
 
 ![html3](https://github.com/N1kijs/KimSk/blob/master/bildes/html3.PNG)
 
-Šajā sadaļa ir definēts footers.
+Šajā sadaļā ir definēts footers.
 
 ![html4](https://github.com/N1kijs/KimSk/blob/master/bildes/html4.PNG)
 
 Šajā sadaļā ir definēti tabulas virslauki un parādīts no kurienes ņemt tās saturu.
+
+### CSS
+![css1](https://github.com/N1kijs/KimSk/blob/master/bildes/css1.PNG)
+
+Šajā sadaļā ir definēti lielumi, atstarpes un krāsas pogām, tabulai, containeram, bodyam un footerim.
+
+![css2](https://github.com/N1kijs/KimSk/blob/master/bildes/css2.PNG)
+
+Šajā sadaļā ir definēta poga, kas ir jau nospiesta, un poga, kad tai virsū atrodas peles kursors.
+
+### JS
+![js1](https://github.com/N1kijs/KimSk/blob/master/bildes/js1.PNG)
+
+Šajā sadaļā līdzīgi kā css ir definēti lielumi, atstarpes un krāsas.
+
+![js2](https://github.com/N1kijs/KimSk/blob/master/bildes/js2.PNG)
+
+Šajā sadaļā ir interakcija ar datubāzi, bet diemžēl tā nestrādā.
 
 Autors: Nils Baldis
