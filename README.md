@@ -13,6 +13,7 @@ Sākumā bija aptauja ar ķīmijas skolotāju lai noskaidrotu, kas tiks ievadīt
 ## Projekts
 ### HTML
 ![html1](https://github.com/N1kijs/KimSk/blob/master/bildes/html1.PNG)
-
+Šajā sadaļa ir veikts setups, definēts headers un pogas.
+![html2](https://github.com/N1kijs/KimSk/blob/master/bildes/html2.PNG)
 
 Autors: Nils Baldis
