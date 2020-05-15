@@ -1,7 +1,7 @@
 # 'Ķīmijas Skapis'
 
 
-## Mērķis:
+## Mērķis
 Izveidot mājaslapu ar datubāzi priekš ķīmijas skolotāja lai varētu vieglāk un ātrāk atrast, saskaitīt, organizēt, un papildināt visu nepieciešamo ķīmijas stundām vai kam citam.
 
 ## Projekta izveide
@@ -9,5 +9,9 @@ Sākumā bija aptauja ar ķīmijas skolotāju lai noskaidrotu, kas tiks ievadīt
 
 ## Datubāzes loģiskais modelis
 ![log mod](https://github.com/N1kijs/KimSk/blob/master/bildes/logmod.png)
+
+## Projekts
+
+
 
 Autors: Nils Baldis
