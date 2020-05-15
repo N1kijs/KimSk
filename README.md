@@ -51,7 +51,7 @@ Mājaslapas izveidei tika izmantot aplikācija Visual Studio Code un HTML, CSS u
 
 Interakcijai ar datubāzi tika izmantota aplikācija Postman.
 
-Datubāzes loģiskajā modeļa izveidei tika lietota mājaslapa draw.io, un pašai datubāzei SQL Server Management Studio.
+Datubāzes loģiskā modeļa izveidei tika lietota mājaslapa draw.io, un pašai datubāzei SQL Server Management Studio.
 
 ## Uzlabojumi
 
