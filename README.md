@@ -55,6 +55,6 @@ Datubāzes loģiskajā modeļa izveidei tika lietota mājaslapa draw.io, un paš
 
 ## Uzlabojumi
 
-Uzlabot projektu varētu to nospodrinot. ir labojot kļūdas, padarīt to vizuāli pievilcīgāku, izveidot vairāk lapas, uzlabot sākuma sadaļu. Un protams panākt to ka strādā interakcija ar datubāzi.
+Uzlabot projektu varētu to nospodrinot, tas ir labojot kļūdas, padarīt to vizuāli pievilcīgāku, izveidot vairāk lapas, uzlabot sākuma sadaļu un, protams, panākt to ka strādā interakcija ar datubāzi.
 
 Autors: Nils Baldis
