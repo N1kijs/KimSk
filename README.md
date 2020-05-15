@@ -11,7 +11,7 @@ Sākumā bija aptauja ar ķīmijas skolotāju lai noskaidrotu, kas tiks ievadīt
 ![log mod](https://github.com/N1kijs/KimSk/blob/master/bildes/logmod.png)
 
 ## Projekts
-### HTML
+### HTML Kods
 ![html1](https://github.com/N1kijs/KimSk/blob/master/bildes/html1.PNG)
 
 Šajā sadaļā ir veikts setups, definēts headers un pogas.
@@ -28,7 +28,7 @@ Sākumā bija aptauja ar ķīmijas skolotāju lai noskaidrotu, kas tiks ievadīt
 
 Šajā sadaļā ir definēti tabulas virslauki un parādīts no kurienes ņemt tās saturu.
 
-### CSS
+### CSS Kods
 ![css1](https://github.com/N1kijs/KimSk/blob/master/bildes/css1.PNG)
 
 Šajā sadaļā ir definēti lielumi, atstarpes un krāsas pogām, tabulai, containeram, bodyam un footerim.
@@ -37,7 +37,7 @@ Sākumā bija aptauja ar ķīmijas skolotāju lai noskaidrotu, kas tiks ievadīt
 
 Šajā sadaļā ir definēta poga, kas ir jau nospiesta, un poga, kad tai virsū atrodas peles kursors.
 
-### JS
+### JS Kods
 ![js1](https://github.com/N1kijs/KimSk/blob/master/bildes/js1.PNG)
 
 Šajā sadaļā līdzīgi kā css ir definēti lielumi, atstarpes un krāsas.
@@ -45,5 +45,16 @@ Sākumā bija aptauja ar ķīmijas skolotāju lai noskaidrotu, kas tiks ievadīt
 ![js2](https://github.com/N1kijs/KimSk/blob/master/bildes/js2.PNG)
 
 Šajā sadaļā ir interakcija ar datubāzi, bet diemžēl tā nestrādā.
+
+## Resursi
+Mājaslapas izveidei tika izmantot aplikācija Visual Studio Code un HTML, CSS un JavaScript programmēšanas valodas.
+
+Interakcijai ar datubāzi tika izmantota aplikācija Postman.
+
+Datubāzes loģiskajā modeļa izveidei tika lietota mājaslapa draw.io, un pašai datubāzei SQL Server Management Studio.
+
+## Uzlabojumi
+
+Uzlabot projektu varētu to nospodrinot. ir labojot kļūdas, padarīt to vizuāli pievilcīgāku, izveidot vairāk lapas, uzlabot sākuma sadaļu. Un protams panākt to ka strādā interakcija ar datubāzi.
 
 Autors: Nils Baldis
