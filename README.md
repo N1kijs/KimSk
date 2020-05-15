@@ -13,7 +13,19 @@ Sākumā bija aptauja ar ķīmijas skolotāju lai noskaidrotu, kas tiks ievadīt
 ## Projekts
 ### HTML
 ![html1](https://github.com/N1kijs/KimSk/blob/master/bildes/html1.PNG)
-Šajā sadaļa ir veikts setups, definēts headers un pogas.
+
+Šajā sadaļā ir veikts setups, definēts headers un pogas.
+
 ![html2](https://github.com/N1kijs/KimSk/blob/master/bildes/html2.PNG)
+
+Šajā sadaļā ir definēti ievades lauki, to nosaukumi un submit poga.
+
+![html3](https://github.com/N1kijs/KimSk/blob/master/bildes/html3.PNG)
+
+Šajā sadaļa ir definēts footers.
+
+![html4](https://github.com/N1kijs/KimSk/blob/master/bildes/html4.PNG)
+
+Šajā sadaļā ir definēti tabulas virslauki un parādīts no kurienes ņemt tās saturu.
 
 Autors: Nils Baldis
