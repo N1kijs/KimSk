@@ -8,6 +8,6 @@ Izveidot mājaslapu ar datubāzi priekš ķīmijas skolotāja lai varētu viegl�
 Sākumā bija aptauja ar ķīmijas skolotāju lai noskaidrotu, kas tiks ievadīts datubāzē un kādai jaizskatās mājaslapai. Pēc tam tika izveidots datubāzes modelis un aprakstīta probēmsfēra un tad tika veidota pati datubāze. Kad datubāze bija izveidota sāku veidot mājaslapu.
 
 ## Datubāzes loģiskais modelis
-![log mod]https://github.com/N1kijs/KimSk/blob/master/bildes/logmod.png
+![log mod](https://github.com/N1kijs/KimSk/blob/master/bildes/logmod.png)
 
 Autors: Nils Baldis
